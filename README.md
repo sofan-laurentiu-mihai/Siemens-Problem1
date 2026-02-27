@@ -1,3 +1,4 @@
+# This is a repository with the first problem solved of the homework from the mail.
 # Siemens-Problem1
 Sarah runs a popular coffee shop chain and wants to digitize her operations. Her coffee shops offer 
 various types of beverages: Espresso, Latte, and Cappuccino - each available in three sizes (Small, 
